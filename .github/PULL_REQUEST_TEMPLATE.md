@@ -53,7 +53,6 @@ test_01_simple_options (__main__.TestFeature.test_01_simple_options) ... ok
 <!--- The entire development process is outlined here: https://docs.vyos.io/en/latest/contributing/development.html -->
 - [ ] I have read the [**CONTRIBUTING**](https://github.com/vyos/vyos-1x/blob/current/CONTRIBUTING.md) document
 - [ ] I have linked this PR to one or more Phabricator Task(s)
-- [ ] I have run the components [**SMOKETESTS**](https://github.com/vyos/vyos-1x/tree/current/smoketest/scripts/cli) if applicable
 - [ ] My commit headlines contain a valid Task id
 - [ ] My change requires a change to the documentation
 - [ ] I have updated the documentation accordingly
